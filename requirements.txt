@@ -1,0 +1,1 @@
+flask flask-socketio paramiko ollama langchain langchain-community chromadb faiss-cpu pillow numpy
